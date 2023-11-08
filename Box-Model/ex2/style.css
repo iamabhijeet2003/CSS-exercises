@@ -1,0 +1,5 @@
+/* Add a 2px solid red border to the <div> element. */
+div{
+    width: 200px;
+    border: 2px solid red;
+}

@@ -1,0 +1,7 @@
+/* Add a 25 pixels space outside, to the left of the <div> element.*/
+div{
+    width: 300px;
+    border: 2px solid black;
+    padding: 25px;
+    margin-left: 25px;
+}
