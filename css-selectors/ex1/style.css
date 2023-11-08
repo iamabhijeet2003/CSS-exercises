@@ -1,0 +1,5 @@
+/* Set the text color to red, for all <p> elements. */
+
+p{
+    color: red;
+}

@@ -1,0 +1,5 @@
+/* Set the text color to red, for all <p> and <h1> elements. Group the selectors to minimize code. */
+
+h1,p{
+    color: red;
+}

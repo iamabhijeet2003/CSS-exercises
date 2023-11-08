@@ -1,0 +1,5 @@
+/* Set the text color to red, for the element with id="para1". */
+
+#para1{
+    color: red;
+}

@@ -1,0 +1,4 @@
+/*  Set the text color to red, for elements with class="colortext".*/
+.colortext{
+    color: red;
+}
