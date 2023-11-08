@@ -1,0 +1,6 @@
+/* Set a solid, 5px outline border for the <div> element. */
+
+div{
+    outline-style: solid;
+    outline-width: 5px;
+}

@@ -1,0 +1,5 @@
+/* Use the outline shorthand property to set a "4px", "dotted", "red" outline border for the <div> element. */
+
+div{
+    outline: 4px dotted red;
+}

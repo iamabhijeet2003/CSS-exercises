@@ -1,0 +1,6 @@
+/* Set the color of the outline border to red.*/
+div{
+    outline-style: solid;
+    outline-width: 5px;
+    outline-color: red;
+}
