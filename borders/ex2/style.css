@@ -1,0 +1,7 @@
+/*Use the correct border property to set the border color to "red". */
+
+p{
+    border-style: dotted;
+    border-width: 4px;
+    border-color: red;
+}

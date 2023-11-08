@@ -1,0 +1,5 @@
+/* Use the border shorthand property to set a "4px", "dotted", "red" border for the <p> elements.*/
+
+p{
+    border: 4px dotted red;
+}
