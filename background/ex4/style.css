@@ -1,0 +1,7 @@
+/*Specify that the background image should be shown once, in the top right corner. */
+
+body{
+    background-image: url("img1.png");
+    background-repeat: no-repeat;
+    background-position: top right;
+}

@@ -1,0 +1,6 @@
+/* Make the background image repeat only vertically. */
+
+body{
+    background-image: url("img.png");
+    background-repeat: repeat-y;
+}

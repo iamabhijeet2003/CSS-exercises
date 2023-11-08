@@ -1,0 +1,4 @@
+/*Set "paper.gif" as the background image of the page.  */
+body{
+    background-image: url("paper.gif");
+}
