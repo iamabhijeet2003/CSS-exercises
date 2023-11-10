@@ -1,0 +1,4 @@
+/* Set a border for <img> elements that have a title attribute ending with the word flower (not flowers).*/
+img[title$="flower"]{
+    border: 2px solid red;
+}
