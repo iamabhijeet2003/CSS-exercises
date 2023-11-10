@@ -1,0 +1,7 @@
+/* Style text in <h1> to uppercase letters, and text in <p> to capitalized letters. */
+h1{
+    text-transform: uppercase;
+}
+p{
+    text-transform: capitalize;
+}
