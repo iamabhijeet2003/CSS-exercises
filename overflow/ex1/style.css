@@ -1,0 +1,6 @@
+/* Force a scroll bar to the <div> element with class="intro".*/
+.intro{
+    width: 200px;
+  height: 70px;
+    overflow:scroll;
+}
