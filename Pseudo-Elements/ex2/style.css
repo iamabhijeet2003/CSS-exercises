@@ -1,0 +1,4 @@
+/* Set the background-color to red, for the first letter of the <p> element.*/
+p::first-letter{
+    background-color: red;
+}
