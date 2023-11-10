@@ -1,0 +1,4 @@
+/* Remove the bullets/markers from the list items. */
+ul{
+    list-style-type: none;
+}
