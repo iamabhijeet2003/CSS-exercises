@@ -1,0 +1,5 @@
+/* Set the background-color to red, of the first line of the paragraph. */
+
+p::first-line{
+    background-color: red;
+}
