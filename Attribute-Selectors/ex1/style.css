@@ -1,0 +1,4 @@
+/* Set the background color to "red" for <a> elements that have a target attribute. */
+a[target]{
+    background-color: red;
+}
