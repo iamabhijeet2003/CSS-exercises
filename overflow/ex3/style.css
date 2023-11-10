@@ -1,0 +1,6 @@
+/* Add a horizontal scrollbar to the <div> element.*/
+.intro {
+    width: 200px;
+    height: 70px;
+    overflow-x: scroll;
+  }
