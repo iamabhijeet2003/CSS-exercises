@@ -1,0 +1,4 @@
+/* Display the <strong> elements as block elements.*/
+strong{
+    display: block;
+}
