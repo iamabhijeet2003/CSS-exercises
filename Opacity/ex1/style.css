@@ -1,0 +1,5 @@
+/* Use CSS to set the transparency of the image to 50%. */
+
+img{
+    opacity: 50%;
+}
