@@ -1,0 +1,6 @@
+/*Position the <h1> element to always be 50px from the top, and 10px from the right, relative to the window/frame edges. */
+h1{
+    position: fixed;
+    top: 50px;
+    right: 10px;
+}
