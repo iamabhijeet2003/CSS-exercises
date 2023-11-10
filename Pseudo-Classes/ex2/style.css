@@ -1,0 +1,6 @@
+/*Set the background-color to red, when you mouse over elements with the class "master".
+
+ */
+.master:hover{
+    background-color: red;
+}
