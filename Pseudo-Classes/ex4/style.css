@@ -1,0 +1,4 @@
+/* Set the background-color to red, of any <input> element that are in focus. */
+input:focus{
+    background-color: red;
+}
