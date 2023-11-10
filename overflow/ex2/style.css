@@ -1,0 +1,6 @@
+/* Specify that the overflowing text in the <div> element should not be visible, not even with a scroll bar.*/
+.intro {
+    width: 200px;
+    height: 70px;
+    overflow: hidden;
+  }
