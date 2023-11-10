@@ -1,0 +1,4 @@
+/* Display the list items as inline elements.*/
+li{
+    display: inline;
+}
