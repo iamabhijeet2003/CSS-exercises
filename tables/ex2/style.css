@@ -1,0 +1,8 @@
+/*Collapse the table borders into a single border. */
+table {
+    border-collapse: collapse;
+    
+}
+table, th, td {
+    border: 1px solid green;
+  }

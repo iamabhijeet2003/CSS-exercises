@@ -1,0 +1,8 @@
+/* Set the background color of <th> elements to "lightblue".*/
+table, th, td {
+    border: 1px solid green;
+  }
+
+  th{
+    background-color: lightblue;
+  }
