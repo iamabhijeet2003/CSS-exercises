@@ -1,0 +1,7 @@
+/*Position the <div> element all the way to the right by using absolute positioning. */
+.intro {
+    width: 200px;
+    margin: auto;
+    position: absolute;
+    right: 0;
+}
