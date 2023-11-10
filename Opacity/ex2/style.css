@@ -1,0 +1,7 @@
+/* Use CSS to "remove" the transparency of the image when the user mouse over the image. */
+img {
+    opacity: 0.4;
+  }
+  img:hover {
+    opacity: 1; 
+  }
