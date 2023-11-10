@@ -1,0 +1,4 @@
+/* Set the style of <p> elements as "bold" text.*/
+p{
+    font-weight: bold;
+}

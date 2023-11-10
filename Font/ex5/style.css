@@ -1,0 +1,4 @@
+/*use the correct font- property to style the <p> elements as "small-caps". */
+p{
+    font-variant: small-caps;
+}

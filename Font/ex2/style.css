@@ -1,0 +1,4 @@
+/* Set the style of <h1> to "italic" text. */
+h1{
+    font-style: italic;
+}
