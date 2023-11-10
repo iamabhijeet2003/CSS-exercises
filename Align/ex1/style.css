@@ -1,0 +1,5 @@
+/* Use the margin property to make sure that the <div> element is center aligned according to its parent element.*/
+.intro{
+    width: 200px;
+    margin: auto;
+}
