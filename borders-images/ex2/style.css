@@ -1,0 +1,10 @@
+/* The image border needs a border-image-repeat value, insert one of the legal values.
+
+*/
+
+div{
+   
+    border-image-source:url("img-bg.jpg") ;
+    border-image-repeat:repeat ;
+    border-image-slice: 30;
+}
