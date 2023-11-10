@@ -1,0 +1,5 @@
+/*Change the color of the first <p> element that is directly after a <div> element, to "red". */
+
+div+p{
+    color: red;
+}
