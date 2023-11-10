@@ -1,0 +1,5 @@
+/* Change the color of all <p> elements, that are descendants of <div> elements, to "red".*/
+div p{
+    color: red;
+}
+
