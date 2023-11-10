@@ -1,0 +1,4 @@
+/*Hide the <h1> element. It should NOT take up any space. */
+h1{
+    display: none;
+}
