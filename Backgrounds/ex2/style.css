@@ -1,0 +1,6 @@
+/* Set the width of the background image to 100px, and the height to 80px.s*/
+body {
+    background-image: url('img1.gif');
+  background-size: 100px 80px;
+    background-repeat: no-repeat;  
+  }
