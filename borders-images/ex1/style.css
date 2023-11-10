@@ -1,0 +1,6 @@
+/* Give the div element an image border. Use the short hand property to define the details of the image border.*/
+
+div{
+    border : 10px solid transparent;
+    border-image:url("img-bg.jpg")
+}
