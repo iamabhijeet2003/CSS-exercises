@@ -1,0 +1,4 @@
+/* Hide the <h1> element. It should still take up the same space as before.*/
+h1{
+    visibility: hidden;
+}
