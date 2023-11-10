@@ -1,0 +1,4 @@
+/* Set the style when you mouse over a link (hover) to red.*/
+a:hover{
+    color: red;
+}

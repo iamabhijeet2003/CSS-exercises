@@ -1,0 +1,4 @@
+/*Set the style for links to pages you have visited to red. */
+a:visited{
+    color: red;
+}

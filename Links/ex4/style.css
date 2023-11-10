@@ -1,0 +1,10 @@
+/* Remove the default underline style for links, but add a underline when you mouse over a link (hover).*/
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+}
+a:visited{
+    text-decoration: none;
+}
