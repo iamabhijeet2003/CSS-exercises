@@ -1,0 +1,7 @@
+/* Insert the image "smiley.gif" before, and after any <p>element, using the ::before and ::after pseudo-elements.*/
+p::before {
+    content: url('smiley.gif');
+}
+p::after {  
+    content: url('smiley.gif');
+}
