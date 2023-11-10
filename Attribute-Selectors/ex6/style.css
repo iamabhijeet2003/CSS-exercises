@@ -1,0 +1,4 @@
+/* Set a border for <img> elements that have a title attribute containing the value flower (hint: flowers also contain flower). */
+img[title*="flower"]{
+    border: 2px red solid;
+}
